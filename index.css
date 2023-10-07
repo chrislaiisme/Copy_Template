@@ -1,0 +1,40 @@
+body {
+	margin: 0px;
+	font-size: 20px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+#up {
+	height: 150px;
+	background-color: #c8c8c8;
+	display: flex;
+}
+#up1 {
+	display: flex;
+	align-items: center;
+	width: 30%;
+	font-size: 3vw;
+	padding-left: 15px;
+}
+#outside {
+	display: flex;
+	justify-content: space-around;
+}
+.inside {
+	margin: 0px;
+	font-size: 1vw;
+}
+.code {
+	width: 15vw;
+	height: 500px;
+	font-size: 14px;
+	font-family: Consolas;
+}
+.btn {
+	font-size: 0.8vw;
+	font-family: Consolas;
+	width: max(80px, 7vw);
+	height: 30px;
+}
+textarea {
+  resize: none;
+}
