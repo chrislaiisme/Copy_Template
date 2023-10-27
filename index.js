@@ -27,4 +27,4 @@ btn5.addEventListener('click', function() { copyText(code5)});
 
 btn6 = document.querySelector('#btn6');
 code6 = document.querySelector('#code6');
-btn3.addEventListener('click', function() { copyText(code6)});
+btn6.addEventListener('click', function() { copyText(code6)});
